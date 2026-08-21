@@ -115,9 +115,8 @@ jobs:
           fi
 
           if (( bump_level == 0 )); then
-            echo "No SemVer bump requested by the pushed commits."
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-            exit 0
+            echo "No explicit SemVer bump found; using patch."
+            bump_level=1
           fi
 
           case "$bump_level" in
