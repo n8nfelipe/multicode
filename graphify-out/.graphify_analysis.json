@@ -1,0 +1,303 @@
+{
+  "communities": {
+    "0": [
+      "app_board",
+      "app_board_agentcard",
+      "app_board_agentfor",
+      "app_board_agentmodal",
+      "app_board_board",
+      "app_board_emptyboard",
+      "app_board_icon",
+      "app_board_initials",
+      "app_board_lane",
+      "app_board_modalshell",
+      "app_board_prioritylabel",
+      "app_board_statuslabel",
+      "app_board_taskcard",
+      "app_board_taskdrawer",
+      "app_board_taskmodal",
+      "app_board_unknownopenaiauth",
+      "app_page",
+      "app_page_home",
+      "lib_types",
+      "lib_types_boarddata",
+      "lib_types_execution",
+      "lib_types_executionstatus",
+      "lib_types_priority",
+      "lib_types_provider",
+      "lib_types_task",
+      "lib_types_taskstatus"
+    ],
+    "1": [
+      "lib_queue",
+      "lib_queue_active",
+      "lib_queue_enqueuetask",
+      "lib_queue_processagentqueue",
+      "lib_queue_queues",
+      "lib_store",
+      "lib_store_addexecution",
+      "lib_store_createagent",
+      "lib_store_createtask",
+      "lib_store_datadirectory",
+      "lib_store_datafile",
+      "lib_store_ensuredatafile",
+      "lib_store_now",
+      "lib_store_readboard",
+      "lib_store_removeagent",
+      "lib_store_seeddata",
+      "lib_store_updateagent",
+      "lib_store_updateexecution",
+      "lib_store_updatetask",
+      "lib_store_writeboard"
+    ],
+    "2": [
+      "ref_dom",
+      "ref_dom_iterable",
+      "ref_es2020",
+      "tsconfig_compileroptions",
+      "tsconfig_compileroptions_allowjs",
+      "tsconfig_compileroptions_esmoduleinterop",
+      "tsconfig_compileroptions_incremental",
+      "tsconfig_compileroptions_isolatedmodules",
+      "tsconfig_compileroptions_jsx",
+      "tsconfig_compileroptions_lib",
+      "tsconfig_compileroptions_module",
+      "tsconfig_compileroptions_moduleresolution",
+      "tsconfig_compileroptions_noemit",
+      "tsconfig_compileroptions_plugins",
+      "tsconfig_compileroptions_resolvejsonmodule",
+      "tsconfig_compileroptions_skiplibcheck",
+      "tsconfig_compileroptions_strict",
+      "tsconfig_compileroptions_target"
+    ],
+    "3": [
+      "package",
+      "package_dependencies",
+      "package_dependencies_next",
+      "package_dependencies_react",
+      "package_dependencies_react_dom",
+      "package_json_next",
+      "package_name",
+      "package_private",
+      "package_scripts",
+      "package_scripts_build",
+      "package_scripts_dev",
+      "package_scripts_lint",
+      "package_scripts_start",
+      "package_scripts_typecheck",
+      "package_version",
+      "react",
+      "react_dom"
+    ],
+    "4": [
+      "app_api_auth_openai_route",
+      "app_api_auth_openai_route_dynamic",
+      "app_api_auth_openai_route_get",
+      "app_api_auth_openai_route_post",
+      "app_api_auth_openai_route_runtime",
+      "lib_openai_auth",
+      "lib_openai_auth_commandresult",
+      "lib_openai_auth_getopenaiauthstatus",
+      "lib_openai_auth_hasopenaioauthentry",
+      "lib_openai_auth_loginwithopenai",
+      "lib_openai_auth_opencodecommand",
+      "lib_openai_auth_runopencode",
+      "lib_types_openaiauthstatus"
+    ],
+    "5": [
+      "app_api_board_route",
+      "app_api_board_route_dynamic",
+      "app_api_board_route_get",
+      "app_api_board_route_post",
+      "app_api_board_route_required",
+      "app_api_board_route_requireopenaiaccount",
+      "app_api_board_route_runtime",
+      "lib_executors",
+      "lib_executors_commandfor",
+      "lib_executors_executewithagent",
+      "lib_executors_executionresult",
+      "lib_executors_normalizeopenaimodel",
+      "lib_types_agent"
+    ],
+    "6": [
+      "eslint",
+      "eslint_config_next",
+      "package_devdependencies",
+      "package_devdependencies_eslint",
+      "package_devdependencies_eslint_config_next",
+      "package_devdependencies_types_node",
+      "package_devdependencies_types_react",
+      "package_devdependencies_types_react_dom",
+      "package_devdependencies_typescript",
+      "types_node",
+      "types_react",
+      "types_react_dom",
+      "typescript"
+    ],
+    "7": [
+      "ref_next_dev_types_ts",
+      "ref_next_env_d_ts",
+      "ref_next_types_ts",
+      "ref_node_modules",
+      "ref_ts",
+      "ref_tsx",
+      "tsconfig",
+      "tsconfig_exclude",
+      "tsconfig_include"
+    ],
+    "8": [
+      "app_blog_pnpm_page",
+      "app_blog_pnpm_page_definitions",
+      "app_blog_pnpm_page_metadata",
+      "app_blog_pnpm_page_pnpmarticle"
+    ],
+    "9": [
+      "app_layout",
+      "app_layout_metadata",
+      "app_layout_rootlayout"
+    ],
+    "10": [
+      "next_config",
+      "next_config_nextconfig"
+    ],
+    "11": [
+      "next_env_d",
+      "next_env_d_rationale_6"
+    ],
+    "12": [
+      "eslint_config"
+    ],
+    "13": [
+      "next_next"
+    ]
+  },
+  "cohesion": {
+    "0": 0.1076923076923077,
+    "1": 0.28421052631578947,
+    "2": 0.1111111111111111,
+    "3": 0.11764705882352941,
+    "4": 0.2692307692307692,
+    "5": 0.24358974358974358,
+    "6": 0.15384615384615385,
+    "7": 0.2222222222222222,
+    "8": 0.5,
+    "9": 0.6666666666666666,
+    "10": 1.0,
+    "11": 1.0,
+    "12": 1.0,
+    "13": 1.0
+  },
+  "gods": [
+    {
+      "id": "lib_store_readboard",
+      "label": "readBoard()",
+      "degree": 15
+    },
+    {
+      "id": "tsconfig_compileroptions",
+      "label": "compilerOptions",
+      "degree": 15
+    },
+    {
+      "id": "lib_store_writeboard",
+      "label": "writeBoard()",
+      "degree": 11
+    },
+    {
+      "id": "app_api_board_route_post",
+      "label": "POST()",
+      "degree": 10
+    },
+    {
+      "id": "lib_openai_auth_getopenaiauthstatus",
+      "label": "getOpenAIAuthStatus()",
+      "degree": 8
+    },
+    {
+      "id": "lib_queue_processagentqueue",
+      "label": "processAgentQueue()",
+      "degree": 8
+    },
+    {
+      "id": "lib_store_now",
+      "label": "now()",
+      "degree": 7
+    },
+    {
+      "id": "lib_store_createagent",
+      "label": "createAgent()",
+      "degree": 6
+    },
+    {
+      "id": "lib_store_createtask",
+      "label": "createTask()",
+      "degree": 6
+    },
+    {
+      "id": "lib_store_updatetask",
+      "label": "updateTask()",
+      "degree": 6
+    }
+  ],
+  "surprises": [
+    {
+      "source": "GET()",
+      "target": "readBoard()",
+      "source_files": [
+        "app/api/board/route.ts",
+        "lib/store.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "connects across different repos/directories; bridges separate communities; peripheral node `GET()` unexpectedly reaches hub `readBoard()`"
+    },
+    {
+      "source": "GET()",
+      "target": "getOpenAIAuthStatus()",
+      "source_files": [
+        "app/api/auth/openai/route.ts",
+        "lib/openai-auth.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "connects across different repos/directories; peripheral node `GET()` unexpectedly reaches hub `getOpenAIAuthStatus()`"
+    },
+    {
+      "source": "POST()",
+      "target": "loginWithOpenAI()",
+      "source_files": [
+        "app/api/auth/openai/route.ts",
+        "lib/openai-auth.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "connects across different repos/directories; peripheral node `POST()` unexpectedly reaches hub `loginWithOpenAI()`"
+    },
+    {
+      "source": "requireOpenAIAccount()",
+      "target": "getOpenAIAuthStatus()",
+      "source_files": [
+        "app/api/board/route.ts",
+        "lib/openai-auth.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "connects across different repos/directories; bridges separate communities"
+    },
+    {
+      "source": "POST()",
+      "target": "enqueueTask()",
+      "source_files": [
+        "app/api/board/route.ts",
+        "lib/queue.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "connects across different repos/directories; bridges separate communities"
+    }
+  ],
+  "tokens": {
+    "input": 0,
+    "output": 0
+  }
+}
